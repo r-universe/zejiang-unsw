@@ -1,0 +1,14 @@
+[
+  {
+    "package": "NPRED",
+    "oncran": true
+  },
+  {
+    "package": "synthesis",
+    "oncran": true
+  },
+  {
+    "package": "WASP",
+    "oncran": true
+  }
+]
