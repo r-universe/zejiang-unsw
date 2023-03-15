@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "NPRED"]
+	path = NPRED
+	url = https://github.com/zejiang-unsw/npred
+	shallow = true
+	registered = true
 [submodule "synthesis"]
 	path = synthesis
 	url = https://github.com/zejiang-unsw/synthesis
@@ -11,10 +16,5 @@
 [submodule "WASP"]
 	path = WASP
 	url = https://github.com/zejiang-unsw/wasp
-	shallow = true
-	registered = true
-[submodule "NPRED"]
-	path = NPRED
-	url = https://github.com/zejiang-unsw/npred
 	shallow = true
 	registered = true
