@@ -5,9 +5,9 @@
 [submodule "NPRED"]
 	path = NPRED
 	url = https://github.com/zejiang-unsw/npred
-[submodule "synthesis"]
-	path = synthesis
-	url = https://github.com/zejiang-unsw/synthesis
 [submodule "WASP"]
 	path = WASP
 	url = https://github.com/zejiang-unsw/wasp
+[submodule "synthesis"]
+	path = synthesis
+	url = https://github.com/zejiang-unsw/synthesis
